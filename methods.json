@@ -21,5 +21,6 @@
 	"zListOperationIds": "z_listoperationids",
 	"zListReceivedByAddress": "z_listreceivedbyaddress",
 	"zSendMany": "z_sendmany",
-	"listUnspent": "listunspent"
+	"listUnspent": "listunspent",
+	"importAddress":"importaddress"
 }
