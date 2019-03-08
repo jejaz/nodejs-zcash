@@ -20,5 +20,6 @@
 	"zGetOperationStatus": "z_getoperationstatus",
 	"zListOperationIds": "z_listoperationids",
 	"zListReceivedByAddress": "z_listreceivedbyaddress",
-	"zSendMany": "z_sendmany"
+	"zSendMany": "z_sendmany",
+	"listUnspent": "listunspent"
 }
