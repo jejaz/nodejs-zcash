@@ -23,5 +23,7 @@
 	"zSendMany": "z_sendmany",
 	"listUnspent": "listunspent",
 	"importAddress":"importaddress",
-	"listTransactions": "listtransactions"
+	"listTransactions": "listtransactions",
+	"estimateFee": "estimatefee",
+	"sendRawTransaction": "sendrawtransaction"
 }
