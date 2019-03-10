@@ -26,5 +26,7 @@
 	"listTransactions": "listtransactions",
 	"estimateFee": "estimatefee",
 	"sendRawTransaction": "sendrawtransaction",
-	"listReceivedByAddress": "listreceivedbyaddress"
+	"listReceivedByAddress": "listreceivedbyaddress",
+	"listSinceBlock": "listsinceblock",
+	"listAccounts": "listaccounts"
 }
