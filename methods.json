@@ -25,5 +25,6 @@
 	"importAddress":"importaddress",
 	"listTransactions": "listtransactions",
 	"estimateFee": "estimatefee",
-	"sendRawTransaction": "sendrawtransaction"
+	"sendRawTransaction": "sendrawtransaction",
+	"listReceivedByAddress": "listreceivedbyaddress"
 }
